@@ -1,0 +1,26 @@
+﻿  DanhSachCong.cpp
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\DanhSachCong.h(13,18): error C2259: 'ThongTinHoangTu': cannot instantiate abstract class
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\ThongTinHoangTu.h(5): message : see declaration of 'ThongTinHoangTu'
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\DanhSachCong.h(13,18): message : due to following members:
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\DanhSachCong.h(13,18): message : 'int ThongTinHoangTu::GetTien(void)': is abstract
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\ThongTinHoangTu.h(14): message : see declaration of 'ThongTinHoangTu::GetTien'
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\DanhSachCong.h(13,18): message : 'int ThongTinHoangTu::GetSucManh(void)': is abstract
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\ThongTinHoangTu.h(15): message : see declaration of 'ThongTinHoangTu::GetSucManh'
+  HoangTu.cpp
+  Source.cpp
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\DanhSachCong.h(13,18): error C2259: 'ThongTinHoangTu': cannot instantiate abstract class
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\ThongTinHoangTu.h(5): message : see declaration of 'ThongTinHoangTu'
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\DanhSachCong.h(13,18): message : due to following members:
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\DanhSachCong.h(13,18): message : 'int ThongTinHoangTu::GetTien(void)': is abstract
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\ThongTinHoangTu.h(14): message : see declaration of 'ThongTinHoangTu::GetTien'
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\DanhSachCong.h(13,18): message : 'int ThongTinHoangTu::GetSucManh(void)': is abstract
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\ThongTinHoangTu.h(15): message : see declaration of 'ThongTinHoangTu::GetSucManh'
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\Source.cpp(6,15): error C2259: 'DanhSachCong': cannot instantiate abstract class
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\DanhSachCong.h(9): message : see declaration of 'DanhSachCong'
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\Source.cpp(6,15): message : due to following members:
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\Source.cpp(6,15): message : 'int ThongTinHoangTu::GetTien(void)': is abstract
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\ThongTinHoangTu.h(14): message : see declaration of 'ThongTinHoangTu::GetTien'
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\Source.cpp(6,15): message : 'int ThongTinHoangTu::GetSucManh(void)': is abstract
+C:\Users\User\OneDrive - Trường ĐH CNTT - University of Information Technology\GiaiCuuCongChua\GiaiCuuCongChua\ThongTinHoangTu.h(15): message : see declaration of 'ThongTinHoangTu::GetSucManh'
+  ThongTinHoangTu.cpp
+  Generating Code...
